@@ -70,7 +70,6 @@
       border-color: black;
       font-size: 12px;
       padding: 10px 45px;
-      border: 1px solid transparent;
       border-radius: 8px;
       font-weight: 600;
       letter-spacing: 0.5px;
@@ -275,5 +274,4 @@
     .home-nav-button:hover {
       background-color: #ffffff50;
       color: #000;
-
     }
