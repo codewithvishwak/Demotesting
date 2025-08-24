@@ -81,7 +81,7 @@
 
     .container button.hidden {
       background-color: transparent;
-      border-color: #fbff00;
+      border-color: black;
     }
 
     .container form {
@@ -275,4 +275,5 @@
     .home-nav-button:hover {
       background-color: #ffffff50;
       color: #000;
+
     }
